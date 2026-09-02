@@ -49,23 +49,10 @@ The system uses an ESP32 as the main controller and integrates sensors, actuator
 
 ## System Architecture
 
-```text
-              TELEGRAM BOT
-                    ↕
-                 WI-FI
-                    ↕
-                  ESP32
-          ┌─────────┼─────────┐
-          │         │         │
-        FEED       WATER      EGG
-        SYSTEM     SYSTEM    SYSTEM
-          │         │         │
-      Load Cell   Water     Infrared
-      + HX711     Level      Sensor
-          │        Sensor        │
-        Servo       │        DC Motor
-                    Pump     Conveyor
-```
+<p align="center">
+  <img src="hardware/system-architecture.png" alt="System Architecture" width="800">
+</p>
+
 ## How It Works
 1. The ESP32 initializes the sensors, actuators, and system components.
 2. The system connects to a Wi-Fi network.
