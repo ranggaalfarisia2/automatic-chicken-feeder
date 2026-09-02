@@ -5,7 +5,6 @@ ESP32-based IoT automation prototype for small-scale laying hen farms, integrati
 ## Overview
 
 This project is a prototype automation system designed to assist small-scale laying hen farmers by automating several routine activities.
-
 The system uses an ESP32 as the main controller and integrates sensors, actuators, and IoT communication into a single system.
 
 ## Features
