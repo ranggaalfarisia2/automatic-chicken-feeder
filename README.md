@@ -105,3 +105,35 @@ Additional documentation includes:
 - Prototype photos
 - Telegram interface
 - Testing documentation
+
+## Project Gallery
+
+### Prototype
+
+<p align="center">
+  <img src="images/prototype-overview.png" alt="Prototype Overview" width="700">
+</p>
+
+### System Architecture
+
+<p align="center">
+  <img src="hardware/system-architecture.png" alt="System Architecture" width="800">
+</p>
+
+### Control Box
+
+<p align="center">
+  <img src="images/control-box-overview.png" alt="Control Box" width="700">
+</p>
+
+### Egg Transfer System
+
+<p align="center">
+  <img src="images/egg-conveyor-1.png" alt="Egg Transfer System" width="700">
+</p>
+
+### Telegram Interface
+
+<p align="center">
+  <img src="images/telegram-interface.png" alt="Telegram Interface" width="700">
+</p>
