@@ -94,17 +94,34 @@ Additional documentation includes:
 - Testing documentation
 
 ## Project Gallery
+### System Architecture
+
+<p align="center">
+  <img src="hardware/system-architecture.png" alt="System Architecture" width="800">
+</p>
+
+### Flowchart
+
+<p align="center">
+  <img src="docs/system-flowchart.png" alt="System Flowchart" width="700">
+</p>
+
+### Circuit Diagram
+
+<p align="center">
+  <img src="hardware/system-circuit-diagram.png" alt="Circuit Diagram" width="700">
+</p>
+
+### Wiring Diagram
+
+<p align="center">
+  <img src="hardware/system-wiring-diagram.png" alt="Wiring Diagram" width="700">
+</p>
 
 ### Prototype
 
 <p align="center">
   <img src="images/prototype-overview.png" alt="Prototype Overview" width="700">
-</p>
-
-### System Architecture
-
-<p align="center">
-  <img src="hardware/system-architecture.png" alt="System Architecture" width="800">
 </p>
 
 ### Control Box
